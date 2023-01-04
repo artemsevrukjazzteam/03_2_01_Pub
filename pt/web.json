@@ -1,0 +1,18 @@
+{
+  "layout": "detalhe técnico",
+  "tags": [
+    "rede"
+  ],
+  "section": "rede",
+  "eyebrow": "Adaptar la Web",
+  "resources": [
+    {
+      "title": "web.dev",
+      "url": "https://web.dev/"
+    },
+    {
+      "title": "Desenvolvedor Chrome",
+      "url": "https://developer.chrome.com/"
+    }
+  ]
+}
