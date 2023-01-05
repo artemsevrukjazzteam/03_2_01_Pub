@@ -1,0 +1,42 @@
+---
+title: ChromeOS para desenvolvedores
+topics: Temas
+lastUpdated: Última atualização
+breadcrumbs: Volver a ((t))
+datePosted: Data de publicação
+skip:
+  content: Adelante al contenido
+  toc: Salte la table de contenido
+landing:
+  chapters: Temas nesta seção
+featured: {}
+resources:
+  title: Recursos
+related:
+  title: Temas Relacionados
+tools:
+  title: Informações de versão
+  versions:
+    singular: versão
+    plural: versões
+toc:
+  title: Nesta página
+styleGuide:
+  title: guia de estilo
+  args: argumentos
+  params: Parâmetros
+  name: Nome do componente
+  template: Modelo
+  macro: Macro
+  detailed: Documentação detalhada
+  docs: Documentação
+  content: contenido
+  components: componentes
+  typography: Tipografia
+author:
+  alt: Foto do perfil de ((t))
+sw:
+  page: Uma nova versão desta página está disponível.
+  refresh: Atualizar
+  site: Tem uma nova versão do chromeOS.dev
+  reload: Atualizar
